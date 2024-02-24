@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+
+}
+
+.umernavbar {
+    margin: 10;
+    margin-left: 100px;
+}
+
+.heading {
+    margin-left: 100px;
+    font-weight: 1000;
+    color: purple;
+    
+}
+
+.para {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ .seachbar{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 500px;
+}
+
+.form-control me-2 {
+    width: 150px !important;
+}
+
+.d-flex input {
+    width: 500px;
+}
+
+.btn btn-outline-success {
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.option {
+    border-radius: 1px;
+}
+
+.text-center img {
+width: 100%;
+}
