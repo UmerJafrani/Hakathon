@@ -1,3 +1,3 @@
 HAKATHON TEST ASSIGMENT
-Hiring Mine 
-Website Link:  https://hakathonmakebyumer.netlify.app/
+Hiring Mine by Umer
+Website Link: https://hiringmine-by-umer.netlify.app/
